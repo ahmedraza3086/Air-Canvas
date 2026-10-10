@@ -1,3 +1,1 @@
 # Air-Canvas
-
-Opencv Project
